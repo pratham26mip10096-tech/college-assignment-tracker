@@ -60,9 +60,10 @@ The data is not permanently stored after the program is closed.
 College-Assignment-Tracker/
 │
 ├── main.py
+├── assignment_manager.py
+├── search.py
+├── reports.py
+├── validators.py
 ├── README.md
-└── statement.md
-
-## Author
-
-Pratham Namdev
+├── statement.md
+└── TESTING.md

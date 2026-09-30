@@ -6,8 +6,7 @@ College students often have multiple assignments from different subjects.
 It can become difficult to keep track of assignment names, subjects, due
 dates and completion status.
 
-The College Assignment Tracker is designed to provide a simple way to
-manage these assignments through a command-line interface.
+The College Assignment Tracker is a solution that facilitates the management of these assignments via a command line interface.
 
 ## Objectives
 
